@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+    width: 40;
+    height: 40;
+    font-size: 25;
+    margin: 2;
+}
+
+.numberbox {
+    width: 180;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+
+}
